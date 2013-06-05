@@ -78,6 +78,7 @@ Parameternamen die aus dem Flash Standard-Formular an das Backend übergeben wer
 * `salutation` = Anrede;
 * `firstname` = Vorname
 * `lastname` = Nachname
+* `nickname` = Nickname
 * `street` = Straße
 * `zip` = Postleitzahl
 * `city` = Stadt
